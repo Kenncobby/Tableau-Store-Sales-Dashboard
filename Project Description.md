@@ -1,7 +1,7 @@
 Tableau Project User Story | Sales and Customer Dashboards.
 
 ## Introduction
-This user story outlines the specifications for building two dashboards using Tableau to help stakeholders, including sales managers and executives, analyze sales performance and customers.
+This user story outlines the specifications for building two dashboards using Tableau to help stakeholders, including sales managers and executives, analyze sales performance and customers
 
 ## 1. Sales Dashboard | Requirements
 
